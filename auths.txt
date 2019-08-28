@@ -1,0 +1,10 @@
+##########################################################
+DELETE EVERYTHING IN THIS FILE WHEN YOU ARE DONE READING
+__________________________________________________________
+
+FORMAT FOR THIS FILE IS token:user YOU CAN USE THE
+CONVERTER TO GET token:user FROM email/username:password
+
+__________________________________________________________
+DELETE EVERYTHING IN THIS FILE WHEN YOU ARE DONE READING
+##########################################################
