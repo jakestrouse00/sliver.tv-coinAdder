@@ -1,6 +1,6 @@
 # sliver.tv-coinAdder
 
-**!!! THIS PROGRAM WAS RENDERED PRETTY MUCH inefficient BY THE COINS 2.0 UPDATE ON SLIVER THAT WENT LIVE 7/28/2019 !!!**
+**!!! THIS PROGRAM WAS RENDERED PRETTY MUCH INEFFICIENT BY THE COINS 2.0 UPDATE ON SLIVER THAT WENT LIVE 7/28/2019 !!!**
 
 Watches Sliver.tv streams for coins. Gets 10 to 20 coins per minute per stream.
 
